@@ -1,0 +1,86 @@
+
+body{
+    background: gray;
+    text-align: center;
+    margin: auto;
+    display: block;
+}
+#wrap{
+border: solid 3px;
+
+width: 500px;
+text-align: center;
+margin: 0 auto ;
+padding-left: 50px;
+}
+
+*{
+    color: blue;
+    margin: 0;
+    padding: 0;
+}
+/* fdiofganhfgaiofhioehfioshpfh */
+#nheader{
+    background-color: brown;
+    background-image: url("imgs/dog.jpg.jpg") ;
+    background-position: bottom;
+    background: url("imgs/dog.jpg.jpg") bottom purple ; 
+    padding: 15px ;
+    height: 150px;
+}
+h1{
+    color: white;
+}
+img{
+    border:dashed 2px white; 
+}
+#npara{
+    height: 350px;
+    padding: 30px;
+    width: 70%;
+    background: url("imgs/car.jpg.jpg") fixed bottom left #2980b9 ;
+    float: left;
+}
+/*  fjuidfhsnefuif */
+.text_para{
+    color: white;
+    font-size: 30px;
+    font-family: Verdana;
+}
+#footer{
+    background-color: purple;
+    font-size: large;
+float: left;
+    font-family:monospace;
+}
+.redColor{
+    color: rgb(229, 253, 11);
+}
+a{
+ 
+    color: inherit;
+    text-decoration: none;
+
+}
+ a:hover{  
+     text-decoration: underline;
+     color: red;
+ }
+ li{   
+     display: inline-block;
+     padding-left: 25px;
+    
+ }
+ ul{
+     padding-top: 60px;
+     float: right;
+ }
+ #sideBar{
+     color: yellow;
+     border: solid 2px black;
+     float: right;
+width: 20%;
+ }
+ #bararara{
+     width: 70%;
+ }
